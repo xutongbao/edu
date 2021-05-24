@@ -1,0 +1,2 @@
+(this.webpackJsonpedu=this.webpackJsonpedu||[]).push([[3],{39:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));e(0);var u=e(3);function i(){return Object(u.jsx)("div",{children:"login"})}}}]);
+//# sourceMappingURL=3.fa432843.chunk.js.map

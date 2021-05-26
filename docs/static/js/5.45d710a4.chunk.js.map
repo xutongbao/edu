@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/light/index/baseMgt/userMgt/UserList.js"],"names":["UserList"],"mappings":"4FAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/5.45d710a4.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function UserList() {\r\n  return (\r\n    <div>\r\n      用户列表\r\n    </div>\r\n  )\r\n}\r\n"],"sourceRoot":""}

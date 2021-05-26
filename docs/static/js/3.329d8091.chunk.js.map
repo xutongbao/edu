@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/light/index/baseMgt/userMgt/Empty.js"],"names":["Empty"],"mappings":"4FAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/3.329d8091.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function Empty() {\r\n  return (\r\n    <div>\r\n      占位空页面\r\n    </div>\r\n  )\r\n}\r\n"],"sourceRoot":""}
